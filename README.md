@@ -1,8 +1,16 @@
 <h1 align="center">Hi 👋, I'm Richard Daniel Tarqui Rondon</h1>
 <h3 align="center">A student passionate about the development, design and optimization of web apps</h3>
 
+<img align="center" src="https://i.gifer.com/2JwO.gif" alt="richard tr" height="30" width="40" />
+![](https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant)
+
+<br />
+
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
+<br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.youtube.com/channel/UC5LaCtMq5xSdsGGwstzKqyw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="richard tr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
