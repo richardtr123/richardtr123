@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Richard Daniel Tarqui Rondon</h1>
 <h3 align="center">A student passionate about the development, design and optimization of web apps</h3>
+<h4>F1 fan</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/richard tr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="richard tr" height="30" width="40" /></a>
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant)
-
-<br />
-
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/richardtr123/richardtr123/blob/main/gifs/2JwO.gif" />
 <br />
 
 
