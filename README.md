@@ -7,6 +7,9 @@
 <a href="https://www.youtube.com/channel/UC5LaCtMq5xSdsGGwstzKqyw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="richard tr" height="30" width="40" /></a>
 </p>
 
+<a href="https://www.youtube.com/channel/UC5LaCtMq5xSdsGGwstzKqyw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="richard tr" height="30" width="40" /></a>
+</p>
+
 <img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/richardtr123/richardtr123/blob/main/gifs/2JwO.gif" />
 <br />
 
